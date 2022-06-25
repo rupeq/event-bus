@@ -4,13 +4,10 @@ Event-driven architecture pattern is a distributed asynchronous architecture pat
 
 ## Why
 
----
-
 To decrease rerenders
 
 ## Actors
 
----
 
 **Bus**
 
